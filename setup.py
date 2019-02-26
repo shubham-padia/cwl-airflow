@@ -73,7 +73,7 @@ setup(
     install_requires=[
         'cwltool==1.0.20181217162649',
         'jsonmerge',
-        "apache-airflow==1.9.0",
+        "apache-airflow==1.10.2",
         "uuid"
     ],
     zip_safe=False,
